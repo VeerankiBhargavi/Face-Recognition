@@ -24,7 +24,7 @@ if __name__ == "__main__":
     cascade_path = cv2.data.haarcascades + 'haarcascade_frontalface_default.xml'
 
     # Path to the input image
-    image_path = 'img1.jpg'
+    image_path = 'source_image.jpg'
 
     # Load the image
     image = cv2.imread(image_path)
