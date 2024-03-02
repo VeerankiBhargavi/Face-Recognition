@@ -12,7 +12,7 @@ This repository contains a Python script for face detection using the OpenCV lib
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/your_username/face-detection-opencv.git
+    git clone https://github.com/VeerankiBhargavi/face-detection-opencv.git
     ```
 
 2. Navigate to the project directory:
